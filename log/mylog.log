@@ -1,0 +1,146 @@
+Mon, 18 Apr 2022 19:51:42-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Mon, 18 Apr 2022 19:51:42-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Mon, 18 Apr 2022 19:51:42-log-base_util.py-[line:18]-INFO-[日志信息]: 全局浏览器
+Mon, 18 Apr 2022 19:51:47-log-base_util.py-[line:23]-INFO-[日志信息]: 最大化浏览器
+Mon, 18 Apr 2022 19:51:51-log-base_util.py-[line:25]-INFO-[日志信息]: 打开网页
+Mon, 18 Apr 2022 19:51:52-log-login_page1.py-[line:15]-INFO-[日志信息]: 输入用户名
+Mon, 18 Apr 2022 19:51:53-log-login_page1.py-[line:17]-INFO-[日志信息]: 输入登录密码
+Mon, 18 Apr 2022 19:51:53-log-login_page1.py-[line:19]-INFO-[日志信息]: 点击登录按钮
+Mon, 18 Apr 2022 19:51:56-log-base_page.py-[line:58]-INFO-[日志信息]: 开始截图并保存
+Tue, 19 Apr 2022 15:12:12-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Tue, 19 Apr 2022 15:12:12-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Tue, 19 Apr 2022 15:12:12-log-base_util.py-[line:18]-INFO-[日志信息]: 全局浏览器
+Tue, 19 Apr 2022 15:12:17-log-base_util.py-[line:23]-INFO-[日志信息]: 最大化浏览器
+Tue, 19 Apr 2022 15:12:22-log-base_util.py-[line:25]-INFO-[日志信息]: 打开网页
+Tue, 19 Apr 2022 15:12:22-log-login_page1.py-[line:15]-INFO-[日志信息]: 输入用户名
+Tue, 19 Apr 2022 15:12:23-log-login_page1.py-[line:17]-INFO-[日志信息]: 输入登录密码
+Tue, 19 Apr 2022 15:12:23-log-login_page1.py-[line:19]-INFO-[日志信息]: 点击登录按钮
+Tue, 19 Apr 2022 15:12:26-log-base_page.py-[line:58]-INFO-[日志信息]: 开始截图并保存
+Thu, 01 Sep 2022 09:52:50-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Thu, 01 Sep 2022 09:52:50-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Thu, 01 Sep 2022 09:53:23-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Thu, 01 Sep 2022 09:53:23-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Thu, 01 Sep 2022 09:53:23-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Thu, 01 Sep 2022 09:53:24-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Thu, 01 Sep 2022 09:53:36-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Thu, 01 Sep 2022 09:53:36-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Thu, 01 Sep 2022 09:53:36-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Thu, 01 Sep 2022 09:53:36-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Thu, 01 Sep 2022 09:53:44-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Thu, 01 Sep 2022 09:53:44-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Thu, 01 Sep 2022 09:53:44-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Thu, 01 Sep 2022 09:53:44-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Thu, 01 Sep 2022 09:53:50-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Thu, 01 Sep 2022 09:53:50-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Thu, 01 Sep 2022 09:53:50-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Thu, 01 Sep 2022 09:53:50-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Thu, 01 Sep 2022 09:53:59-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Thu, 01 Sep 2022 09:53:59-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Thu, 01 Sep 2022 09:53:59-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Thu, 01 Sep 2022 09:53:59-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Thu, 01 Sep 2022 09:54:08-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Thu, 01 Sep 2022 09:54:08-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Thu, 01 Sep 2022 09:54:08-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Thu, 01 Sep 2022 09:54:08-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Thu, 01 Sep 2022 09:54:16-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Thu, 01 Sep 2022 09:54:16-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Thu, 01 Sep 2022 09:54:16-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Thu, 01 Sep 2022 09:54:16-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Thu, 01 Sep 2022 09:54:23-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Thu, 01 Sep 2022 09:54:23-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Thu, 01 Sep 2022 09:54:24-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Thu, 01 Sep 2022 09:54:24-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Tue, 06 Sep 2022 12:10:54-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Tue, 06 Sep 2022 12:10:54-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Tue, 06 Sep 2022 12:10:54-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Tue, 06 Sep 2022 12:10:54-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Tue, 06 Sep 2022 12:11:30-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Tue, 06 Sep 2022 12:11:30-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Tue, 06 Sep 2022 12:11:30-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Tue, 06 Sep 2022 12:11:30-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Tue, 06 Sep 2022 12:11:38-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Tue, 06 Sep 2022 12:11:38-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Tue, 06 Sep 2022 12:11:38-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Tue, 06 Sep 2022 12:11:38-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Tue, 06 Sep 2022 12:11:46-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Tue, 06 Sep 2022 12:11:46-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Tue, 06 Sep 2022 12:11:46-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Tue, 06 Sep 2022 12:11:46-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Tue, 06 Sep 2022 12:11:54-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Tue, 06 Sep 2022 12:11:54-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Tue, 06 Sep 2022 12:11:54-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Tue, 06 Sep 2022 12:11:54-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Wed, 07 Sep 2022 17:11:03-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 07 Sep 2022 17:11:03-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 07 Sep 2022 17:11:03-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 07 Sep 2022 17:11:03-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Wed, 07 Sep 2022 17:11:16-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 07 Sep 2022 17:11:16-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 07 Sep 2022 17:11:16-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 07 Sep 2022 17:11:16-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Wed, 07 Sep 2022 17:33:51-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 07 Sep 2022 17:33:51-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 07 Sep 2022 17:33:51-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 07 Sep 2022 17:33:51-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Wed, 07 Sep 2022 17:34:04-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 07 Sep 2022 17:34:04-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 07 Sep 2022 17:34:04-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 07 Sep 2022 17:34:04-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Wed, 07 Sep 2022 17:34:20-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 07 Sep 2022 17:34:20-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 07 Sep 2022 17:34:20-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 07 Sep 2022 17:34:20-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Wed, 07 Sep 2022 17:34:59-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 07 Sep 2022 17:34:59-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 07 Sep 2022 17:34:59-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 07 Sep 2022 17:34:59-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Wed, 07 Sep 2022 17:36:12-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 07 Sep 2022 17:36:12-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 07 Sep 2022 17:36:12-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 07 Sep 2022 17:36:12-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Wed, 07 Sep 2022 17:36:21-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 07 Sep 2022 17:36:21-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 07 Sep 2022 17:36:21-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 07 Sep 2022 17:36:21-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Wed, 07 Sep 2022 17:36:28-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 07 Sep 2022 17:36:28-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 07 Sep 2022 17:36:28-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 07 Sep 2022 17:36:28-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Wed, 07 Sep 2022 17:36:35-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 07 Sep 2022 17:36:35-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 07 Sep 2022 17:36:35-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 07 Sep 2022 17:36:35-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Wed, 07 Sep 2022 17:36:41-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 07 Sep 2022 17:36:41-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 07 Sep 2022 17:36:41-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 07 Sep 2022 17:36:41-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/save， 请求参数None
+Wed, 14 Sep 2022 20:24:52-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 14 Sep 2022 20:24:52-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 14 Sep 2022 20:24:52-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 14 Sep 2022 20:24:53-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/getSWById， 请求参数{'id': 1518864408166666241}
+Wed, 14 Sep 2022 22:39:59-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 14 Sep 2022 22:39:59-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 14 Sep 2022 22:39:59-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 14 Sep 2022 22:39:59-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/getSWById， 请求参数{'id': 1518864408166666241}
+Wed, 14 Sep 2022 22:40:51-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 14 Sep 2022 22:40:51-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 14 Sep 2022 22:40:51-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 14 Sep 2022 22:40:51-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/getSWById， 请求参数{'id': 1518864408166666241}
+Wed, 14 Sep 2022 22:44:25-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 14 Sep 2022 22:44:25-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 14 Sep 2022 22:44:25-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 14 Sep 2022 22:44:25-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/getSWById， 请求参数{'id': 1518864408166666241}
+Wed, 14 Sep 2022 22:52:37-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 14 Sep 2022 22:52:37-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 14 Sep 2022 22:52:37-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 14 Sep 2022 22:52:37-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/getSWById， 请求参数{'id': 1518864408166666241}
+Wed, 14 Sep 2022 22:55:22-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 14 Sep 2022 22:55:22-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 14 Sep 2022 22:55:22-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://39.108.184.75:9073/timeline?versionFlag=-1， 请求参数None
+Wed, 14 Sep 2022 22:55:51-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 14 Sep 2022 22:55:51-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 14 Sep 2022 22:55:51-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 14 Sep 2022 22:56:58-log-base_util.py-[line:11]-INFO-[日志信息]: --------------------------------------------------
+Wed, 14 Sep 2022 22:56:58-log-base_util.py-[line:12]-INFO-[日志信息]: ---开始执行测试---
+Wed, 14 Sep 2022 22:56:58-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/pmtapi/base_Account/login?username=heqiangming&password=abc123456， 请求参数None
+Wed, 14 Sep 2022 22:56:59-log-httpport.py-[line:33]-INFO-[日志信息]: 正在发送post请求，数据格式是form，请求地址：http://kbs.matrixdesign.cn/api/authapi/bsProInfo/getSWById， 请求参数{'id': 1518864408166666241}
