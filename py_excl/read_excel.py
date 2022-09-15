@@ -35,3 +35,6 @@ class ExcelReader:
         '''获取接口URL， rows的参数是0开始，表示第1行'''
         # self.start_row + rows 起始行+想要获取的行， 3表示接口url所在的固定列是3
         return self.sheet_1.cell(self.start_row + rows, 3).value
+
+    def close_file(self):
+        self.excel_file.save()

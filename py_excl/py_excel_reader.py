@@ -3,4 +3,8 @@
 # @Author   : Mr_Li
 # @FileName :
 # 用代码读取Excel
-from utils.ExcelReader import ExcelReader
+from py_excl.read_excel import  ExcelReader
+
+excel = ExcelReader(r"G:\pytho\py_excl\test_excel.xlsx")
+count = excel.get_case_count()
+excel.close_file()
