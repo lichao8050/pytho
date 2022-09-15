@@ -1,3 +1,4 @@
+jsonpath
 pytest-html
 pytest-xdist
 pytest-ordering
