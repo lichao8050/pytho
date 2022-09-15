@@ -21,7 +21,7 @@ for row in range(0, count): #  循环语句   row是变量  范围是0到count
     if api_method == 'get':
         res = requests.get(
             url=api_url,
-            params=api_params
+            params=eval(api_params)  # 此处参数类型不是字符串，所以用eval转换为字典类型
         )
         print(res.json())
     if api_method == 'post':
