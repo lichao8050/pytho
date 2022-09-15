@@ -18,16 +18,17 @@ for row in range(0, count): #  循环语句   row是变量  范围是0到count
     api_params = excel.get_headers(row) # 读取用例请求数据
     api_data = excel.get_test_data(row) # 读取用例请求数据
     print(api_case_name, api_method)
-    if api_method == 'get':
-        res = requests.get(
-            url=api_url,
-            params=eval(api_params)  # 此处参数类型不是字符串，所以用eval转换为字典类型
-        )
-        print(res.json())
-        #  断言结果：1.预期状态码  2.预期返回数据
-        if res.status_code != int(excel.get_test_status_cood(row)):
-            excel.set_pass_or_fail("fail")
-    if api_method == 'post':
-        requests.post(
-
-        )
+    # if api_method == 'get':
+    #     res = requests.get(
+    #         url=api_url,
+    #         params=eval(api_params)  # 此处参数类型不是字符串，所以用eval转换为字典类型
+    #     )
+    #     print(res.json())
+    #     #  断言结果：1.预期状态码  2.预期返回数据
+    #     if res.status_code != int(excel.get_test_status_cood(row)):
+    excel.set_pass_or_fail(5, "fail")
+    print(excel)
+    # if api_method == 'post':
+    #     requests.post(
+    #
+    #     )
