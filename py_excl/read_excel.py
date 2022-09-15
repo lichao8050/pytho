@@ -5,9 +5,9 @@
 # Excel 读取为用例对象
 from openpyxl import load_workbook
 
-excel = load_workbook("test_excel.xlsx")
-sheet = excel.worksheets[0]
-print(sheet.cell(2, 1).value)
+# excel = load_workbook("test_excel.xlsx")
+# sheet = excel.worksheets[0]
+# print(sheet.cell(2, 1).value)
 
 
 class ExcelReader:
@@ -36,5 +36,26 @@ class ExcelReader:
         # self.start_row + rows 起始行+想要获取的行， 3表示接口url所在的固定列是3
         return self.sheet_1.cell(self.start_row + rows, 3).value
 
-    def close_file(self):
-        self.excel_file.save()
+    def get_method(self, rows):
+        '''获取接口method， rows的参数是0开始，表示第1行'''
+        # self.start_row + rows 起始行+想要获取的行， 3表示接口method所在的固定列是2
+        return self.sheet_1.cell(self.start_row + rows, 2).value
+
+    def get_headers(self, rows):
+        '''获取接口headers， rows的参数是0开始，表示第1行'''
+        # self.start_row + rows 起始行+想要获取的行， 4表示接口headers所在的固定列是4
+        return self.sheet_1.cell(self.start_row + rows, 4).value
+
+    def get_test_case_name(self, rows):
+        '''获取接口用例名称， rows的参数是0开始，表示第1行'''
+        # self.start_row + rows 起始行+想要获取的行， 1表示接口用例名称所在的固定列是1
+        return self.sheet_1.cell(self.start_row + rows, 1).value
+
+    def get_test_data(self, rows):
+        '''获取接口请求参数， rows的参数是0开始，表示第1行'''
+        # self.start_row + rows 起始行+想要获取的行， 5表示接口用例名称所在的固定列是5
+        return self.sheet_1.cell(self.start_row + rows, 5).value
+
+    def close_file(self,):
+        '''关闭Excel'''
+        self.excel_file.close()
