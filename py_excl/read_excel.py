@@ -66,4 +66,4 @@ class ExcelReader:
         self.excel_file.close()
 
     def set_pass_or_fail(self, rows, text):
-        self.sheet_1.writecell(self.start_row + rows, 6, text)
+        self.sheet_1.cell(self.start_row + rows, 6, text)
