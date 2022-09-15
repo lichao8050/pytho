@@ -24,8 +24,10 @@ for row in range(0, count): #  循环语句   row是变量  范围是0到count
             params=eval(api_params)  # 此处参数类型不是字符串，所以用eval转换为字典类型
         )
         print(res.json())
+        #  断言结果：1.预期状态码  2.预期返回数据
+        if res.status_code != int(excel.get_test_status_cood(row)):
+            excel.set_pass_or_fail("fail")
     if api_method == 'post':
         requests.post(
 
         )
-#  断言结果：1.预期状态码  2.预期返回数据

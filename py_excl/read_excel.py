@@ -56,6 +56,13 @@ class ExcelReader:
         # self.start_row + rows 起始行+想要获取的行， 5表示接口用例名称所在的固定列是5
         return self.sheet_1.cell(self.start_row + rows, 5).value
 
+    def get_test_status_cood(self, rows):
+        '''获取预期返回状态码， rows的参数是0开始，表示第1行'''
+        # self.start_row + rows 起始行+想要获取的行， 6表示接口用例名称所在的固定列是6
+        return self.sheet_1.cell(self.start_row + rows, 6).value
+
     def close_file(self,):
         '''关闭Excel'''
         self.excel_file.close()
+
+    def set_pass_or_fail(self,):
