@@ -15,7 +15,7 @@ class ExcelReader:
 
     def __init__(self, excel_path):
         # start_row = 5  从表的第5行开始读取
-        self.start_row = 5
+        self.start_row = 2
         self.excel_path = excel_path
         self.excel_file = load_workbook(excel_path)
         # sheet_1 = self.excel_file.worksheets[0]  从第一个sheet开始

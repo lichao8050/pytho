@@ -11,4 +11,6 @@ print(count)
 excel.close_file()
 # 循环遍历所有用例
 for row in range(0, count): #  循环语句   row是变量  范围是0到count
-    api_url = excel.get_url(row)
+    api_case_name = excel.get_test_case_name(row)
+    api_method = excel.get_method(row)
+    print(api_case_name, api_method)
