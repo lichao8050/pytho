@@ -25,4 +25,7 @@ for row in range(0, count): #  循环语句   row是变量  范围是0到count
         )
         print(res.json())
     if api_method == 'post':
-        requests.post()
+        requests.post(
+
+        )
+#  断言结果：1.预期状态码  2.预期返回数据
